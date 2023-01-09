@@ -9,7 +9,7 @@ HumHub - Putting People and Pieces together
 
 **The software is written in PHP** and is best described by dividing into 4 main parts: **User, Spaces, Content and Modules.**
 
-- **User:** All users have their own customisable profile (including name, profile picture, cover photo and personal information) and can follow and interact with each other. If wished and enabled, users can create own content, comment posts and join Spaces. Profile fields, permissions and all settings can be defined individually by the network operator (administrator).
+- **User:** All users have their own customisable profile (including name, profile picture, cover photo and personal information), can follow and interact with each other and send friendship requests (if enabled). Also if wished and enabled, users can create own content, comment posts and join Spaces. Profile fields, permissions and all settings can be defined individually by the network operator (administrator).
 
 - **Spaces:** Rooms or groups for any projects, departments, events or other needs. Network operators can create as many Spaces as needed and automatically map users into the desired Spaces. HumHub comes with an advanced permission and notification system (including email summaries).
 
