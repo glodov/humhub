@@ -15,14 +15,16 @@
  * of the guide for details.
  *
  * NOTE: this file must be saved in UTF-8 encoding.
+ *
+ * @author Yaro (https://yaro.info) glodov@gmail.com
  */
 return [
-    'Space has been archived' => '',
-    'Space has been unarchived' => '',
-    'Space member joined' => '',
-    'Space member left' => '',
-    'Whenever a member leaves one of your spaces.' => '',
-    'Whenever a new member joined one of your spaces.' => '',
-    'Whenever a space is archived.' => '',
-    'Whenever a space is unarchived.' => '',
+    'Space has been archived' => 'Спільнота запакована',
+    'Space has been unarchived' => 'Спільнота розпакована',
+    'Space member joined' => 'Доєднався член спільноти',
+    'Space member left' => 'Член вийшов із спільноти',
+    'Whenever a member leaves one of your spaces.' => 'Коли член виходить із спільноти.',
+    'Whenever a new member joined one of your spaces.' => 'Коли новий член доєднується до одної із спільнот.',
+    'Whenever a space is archived.' => 'Коли спільнота запакована.',
+    'Whenever a space is unarchived.' => 'Коли спільнота розпакована.',
 ];
